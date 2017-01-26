@@ -1,2 +1,2 @@
 # command.js
-command module. pass in command. returns Task
+command module. pass in command. returns stdout in a Task
